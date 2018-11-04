@@ -717,4 +717,11 @@
 .icon-zoom-out:before {
     content: "\e9e6";
 }
+.flower{
+    background: url('https://raw.githubusercontent.com/luciafeitosa/luciafeitosa.github.io/master/images/flower.png');
+    height: 74px;
+    width: 48px;
+    display: block;  
+    background: #EC008C;
+}
 
