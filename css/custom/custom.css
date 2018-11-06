@@ -25,22 +25,22 @@
 }
 
 .icon-flower_vase:before {
-  content: "\e900";
+  content: "\f900";
 }
 .icon-bouquet:before {
-  content: "\e901";
+  content: "\f901";
   color: #4d4d4d;
 }
 .icon-chandelier:before {
-  content: "\e902";
+  content: "\f902";
 }
 .icon-curtain:before {
-  content: "\e903";
+  content: "\f903";
 }
 .icon-wedding:before {
-  content: "\e904";
+  content: "\f904";
 }
 .icon-flower:before {
-  content: "\e906";
+  content: "\f906";
   color: #394b9f;
 }
