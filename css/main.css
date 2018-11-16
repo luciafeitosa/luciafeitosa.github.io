@@ -1236,6 +1236,18 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     color: #FFFFFF;
 }
 
+.display-3{
+    font-family: "Aguafina Script";
+    font-size: 7.8rem;
+    line-height: 1.25;
+    color: #000000;
+    margin-top: 0;
+}
+
+.display-3--light {
+    color: #FFFFFF;
+}
+
 .subhead + .display-2 {
     margin-top: .6rem;
 }
