@@ -2,8 +2,6 @@
  *
  *  Glint v1.0 Main Stylesheet
  *  11-20-2017
- *  ------------------------------------------------------------------
- *
  *  TOC:
  *  # base style overrides
  *      ## links
@@ -1237,7 +1235,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-3{
-    font-family: "Aguafina Script";
+    font-family: 'Allura', cursive;
     font-size: 7.8rem;
     line-height: 1.25;
     color: #000000;
